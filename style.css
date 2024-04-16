@@ -6,8 +6,15 @@
     height: 100vh;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 div{
-    width: 100vw;
+    width: 100%;
 }
 
 .h1 {
